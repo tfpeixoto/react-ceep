@@ -1,0 +1,10 @@
+.lista-notas{
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+}
+
+.lista-notas_item{
+  margin: 2rem;
+  width: 30%;
+}
