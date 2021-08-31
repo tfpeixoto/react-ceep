@@ -1,0 +1,17 @@
+.lista-categorias {
+  display: flex;
+  padding: 1rem 0;
+}
+
+.lista-categorias_lista {
+  display: flex;
+}
+
+.lista-categorias_item {
+  color: white;
+  background: cornflowerblue;
+  border-radius: 3px;
+  margin: 0 .5rem;
+  padding: 0.25rem;
+  width: 100%;
+}
